@@ -111,7 +111,7 @@ Darfur B-geo
 region O
 . O
 
-Security O
+Security I-org
 officials O
 say O
 they O
@@ -152,7 +152,7 @@ at O
 risk O
 . O
 
-Swiss O
+Swiss B-nat
 drugmaker O
 Roche O
 said O
@@ -294,7 +294,7 @@ insurgent O
 attacks O
 . O
 
-Camara O
+Camara B-nat
 seized O
 power O
 in O
@@ -311,7 +311,7 @@ Lansana O
 Conte O
 . O
 
-Total O
+Total B-nat
 defended O
 its O
 business O
@@ -392,7 +392,7 @@ government O
 intimidation O
 . O
 
-Domestic O
+Domestic B-nat
 and O
 international O
 efforts O
@@ -415,7 +415,7 @@ mid O
 April B-tim
 . O
 
-A O
+A B-org
 series O
 of O
 explosions O
@@ -559,12 +559,12 @@ on O
 20/20 O
 . O
 
-Supporters O
-of O
-Judge O
-Iftikhar B-geo
-Mohammed I-geo
-Chaudhry O
+Supporters B-art
+of I-art
+Judge I-art
+Iftikhar I-art
+Mohammed B-per
+Chaudhry I-per
 chanted O
 slogans O
 Saturday B-tim
@@ -593,7 +593,7 @@ the O
 site O
 . O
 
-Honiara O
+Honiara B-nat
 is O
 reported O
 to O
@@ -661,7 +661,7 @@ in O
 Mumbai O
 . O
 
-Ethiopia O
+Ethiopia B-nat
 recently O
 began O
 a O
@@ -708,8 +708,8 @@ leftist O
 . O
 " O
 
-Next O
-Wednesday B-tim
+Next B-tim
+Wednesday I-tim
 's O
 start O
 for O
@@ -736,10 +736,10 @@ South B-geo
 Korea I-geo
 . O
 
-Irate O
-fans O
-burned O
-the O
+Irate B-art
+fans I-art
+burned I-art
+the I-art
 Hollywood B-geo
 actor O
 in O
@@ -818,7 +818,7 @@ terrorist O
 attacks O
 . O
 
-A O
+A B-org
 landmine O
 blast O
 in O
@@ -938,7 +938,7 @@ and O
 xenophobia O
 . O
 
-Back O
+Back B-nat
 in O
 May B-tim
 , O
@@ -1199,7 +1199,7 @@ much O
 higher O
 . O
 
-Toyota O
+Toyota B-nat
 gained O
 nearly O
 41 O
@@ -1390,7 +1390,7 @@ of O
 desert O
 . O
 
-Women O
+Women B-nat
 and O
 children O
 were O
@@ -1461,7 +1461,7 @@ the O
 grenade O
 . O
 
-Benedicto O
+Benedicto B-nat
 Jimenez O
 strongly O
 denied O
@@ -1546,8 +1546,8 @@ with O
 Israel B-geo
 . O
 
-The O
-National B-org
+The B-org
+National I-org
 Football O
 League O
 playoffs O
@@ -1622,7 +1622,7 @@ its O
 citizens O
 . O
 
-Maduro O
+Maduro B-nat
 rejected O
 a O
 U.S. B-geo
@@ -1641,7 +1641,7 @@ U.S.-Venezuelan O
 relations O
 . O
 
-Delegates O
+Delegates B-nat
 remain O
 deeply O
 divided O
@@ -1781,7 +1781,7 @@ and O
 resources O
 . O
 
-Independence O
+Independence B-nat
 from O
 Spain B-geo
 was O
@@ -1799,7 +1799,7 @@ in O
 1838 O
 . O
 
-A O
+A B-org
 town O
 official O
 told O
@@ -1868,7 +1868,7 @@ Harmony O
 . O
 " O
 
-A O
+A B-org
 military O
 statement O
 says O
@@ -2147,7 +2147,7 @@ far O
 enough O
 . O
 
-Rights O
+Rights I-org
 groups O
 criticize O
 China B-geo
