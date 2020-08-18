@@ -3,3 +3,4 @@
 __MACOSX__
 __pycache__
 out_ner
+bert-ner_model.sav
