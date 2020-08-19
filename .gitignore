@@ -3,4 +3,5 @@
 __MACOSX__
 __pycache__
 out_ner
+out_ner_full
 bert-ner_model.sav
