@@ -4,7 +4,7 @@ Interior NNP B-org
 Ministry NNP I-org
 says VBZ O
 the DT O
-three CD B-tim
+three CD O
 were VBD O
 not RB O
 on IN O
@@ -24,7 +24,7 @@ last JJ O
 year NN O
 . . O
 
-British JJ B-gpe
+British JJ O
 forces NNS O
 , , O
 based VBN O
@@ -46,8 +46,8 @@ larger JJR O
 U.S. NNP B-geo
 force NN O
 fighting VBG O
-Sunni NNP B-org
-Arab NNP I-org
+Sunni NNP O
+Arab NNP B-gpe
 insurgents NNS O
 and CC O
 foreign JJ O
@@ -76,8 +76,8 @@ the DT O
 north NN O
 contributed VBD O
 to TO O
-two CD B-tim
-decades NNS I-tim
+two CD O
+decades NNS O
 of IN O
 hostility NN O
 between IN O
@@ -123,7 +123,7 @@ insurgent JJ O
 attacks NNS O
 before IN O
 January NNP B-tim
-30 CD I-tim
+30 CD O
 elections NNS O
 . . O
 
@@ -152,9 +152,9 @@ at IN O
 risk NN O
 . . O
 
-Swiss JJ B-gpe
+Swiss JJ O
 drugmaker NN O
-Roche NNP B-geo
+Roche NNP O
 said VBD O
 it PRP O
 will MD O
@@ -162,7 +162,7 @@ donate VB O
 another DT O
 batch NN O
 of IN O
-Tamiflu NNP B-geo
+Tamiflu NNP O
 , , O
 an DT O
 anti-viral JJ O
@@ -172,7 +172,7 @@ to TO O
 treat VB O
 an DT O
 additional JJ O
-two CD B-tim
+two CD O
 million CD O
 people NNS O
 in IN O
@@ -190,13 +190,13 @@ International NNP O
 Committee NNP B-org
 of IN O
 the DT O
-Red NNP B-per
-Cross NNP I-per
+Red NNP O
+Cross NNP O
 says VBZ O
 rebels NNS O
 from IN O
-Western JJ B-org
-Sahara NNP I-org
+Western JJ O
+Sahara NNP O
 have VBP O
 freed VBN O
 their PRP$ O
@@ -294,7 +294,7 @@ insurgent JJ O
 attacks NNS O
 . . O
 
-Camara NNP B-geo
+Camara NNP O
 seized VBD O
 power NN O
 in IN O
@@ -307,11 +307,11 @@ death NN O
 of IN O
 longtime JJ O
 dictator NN B-tim
-Lansana NNP B-per
-Conte NNP I-per
+Lansana NNP O
+Conte NNP O
 . . O
 
-Total NNP B-geo
+Total NNP O
 defended VBD O
 its PRP$ O
 business NN O
@@ -335,7 +335,7 @@ ethical JJ O
 . . O
 
 Mr. NNP B-per
-Nowak NNP I-per
+Nowak NNP O
 's POS O
 visit NN O
 to TO O
@@ -349,7 +349,7 @@ the DT O
 Muslim-majority JJ B-org
 region NN O
 of IN O
-Xinjiang NNP B-geo
+Xinjiang NNP O
 . . O
 
 Authorities NNS O
@@ -392,7 +392,7 @@ government NN O
 intimidation NN O
 . . O
 
-Domestic JJ B-gpe
+Domestic JJ O
 and CC O
 international JJ O
 efforts NNS O
@@ -523,7 +523,7 @@ the DT O
 capital NN O
 city NN O
 's POS O
-two CD B-tim
+two CD O
 deputy JJ O
 mayors NNS O
 . . O
@@ -543,28 +543,28 @@ The DT O
 interview NN O
 airs VBZ O
 August NNP B-tim
-2 CD I-tim
-and CC I-tim
+2 CD O
+and CC B-tim
 3 CD I-tim
 on IN O
-Good NNP B-org
-Morning NNP I-org
-America NNP I-org
+Good NNP O
+Morning NNP O
+America NNP B-org
 , , O
 and CC O
 later RB O
 August NNP B-tim
 3 CD I-tim
 on IN O
-20/20 NNP B-geo
+20/20 NNP O
 . . O
 
 Supporters NNS O
 of IN O
-Judge NNP B-org
-Iftikhar NNP I-org
-Mohammed NNP B-per
-Chaudhry NNP I-per
+Judge NNP O
+Iftikhar NNP O
+Mohammed NNP O
+Chaudhry NNP O
 chanted VBD O
 slogans NNS O
 Saturday NNP B-tim
@@ -593,7 +593,7 @@ the DT O
 site NN O
 . . O
 
-Honiara NNP B-geo
+Honiara NNP O
 is VBZ O
 reported VBN O
 to TO O
@@ -622,7 +622,7 @@ to TO O
 the DT O
 town NN O
 of IN O
-Kakdwip NNP B-geo
+Kakdwip NNP O
 after IN O
 attending VBG O
 a DT O
@@ -658,10 +658,10 @@ a DT O
 hospital NN O
 bed NN O
 in IN O
-Mumbai NNP B-geo
+Mumbai NNP O
 . . O
 
-Ethiopia NNP B-geo
+Ethiopia NNP O
 recently RB O
 began VBD O
 a DT O
@@ -726,7 +726,7 @@ Economic NNP I-org
 Cooperation NNP I-org
 forum NN O
 November NNP B-tim
-18 CD I-tim
+18 CD O
 and CC O
 19 CD O
 in IN O
@@ -736,7 +736,7 @@ South NNP B-geo
 Korea NNP I-geo
 . . O
 
-Irate JJ B-gpe
+Irate JJ O
 fans NNS O
 burned VBD O
 the DT O
@@ -753,8 +753,8 @@ repeatedly RB O
 kissed VBD O
 movie NN O
 actress NN O
-Shilpa NNP B-per
-Shetty NNP I-per
+Shilpa NNP O
+Shetty NNP O
 during IN O
 an DT O
 AIDS NNP O
@@ -775,14 +775,14 @@ U.S. NNP B-geo
 television NN O
 , , O
 on IN O
-ABC NNP B-geo
+ABC NNP O
 's POS O
 This DT O
 Week NN O
 program NN O
 , , O
 Mr. NNP B-per
-Powell NNP I-per
+Powell NNP O
 says VBZ O
 there EX O
 was VBD O
@@ -811,9 +811,9 @@ aftermath NN O
 of IN O
 the DT O
 September NNP B-tim
-11 CD I-tim
-, , I-tim
-2001 CD I-tim
+11 CD O
+, , O
+2001 CD B-tim
 terrorist JJ O
 attacks NNS O
 . . O
@@ -833,11 +833,11 @@ soldiers NNS O
 
 U.S. NNP B-geo
 Assistant NNP O
-Secretary NNP B-org
-of IN I-org
-State NNP I-org
-Daniel NNP I-org
-Fried NNP I-org
+Secretary NNP O
+of IN O
+State NNP O
+Daniel NNP O
+Fried NNP O
 and CC O
 Special NNP B-art
 Assistant NNP O
@@ -845,7 +845,7 @@ to TO O
 the DT O
 President NNP B-per
 Thomas NNP I-per
-Graham NNP I-per
+Graham NNP O
 answered VBD O
 questions NNS O
 Wednesday NNP B-tim
@@ -864,7 +864,7 @@ day NN O
 visits NNS O
 to TO O
 the DT O
-Netherlands NNP B-geo
+Netherlands NNP O
 , , O
 Russia NNP B-geo
 and CC O
@@ -874,9 +874,9 @@ Georgia NNP B-geo
 Thursday NNP B-tim
 , , O
 the DT O
-U.S. NNP B-org
-State NNP I-org
-Department NNP I-org
+U.S. NNP B-geo
+State NNP O
+Department NNP B-org
 said VBD O
 a DT O
 regional JJ O
@@ -946,7 +946,7 @@ a DT O
 Nepalese JJ B-gpe
 Sherpa NN O
 climbed VBD O
-Everest NNP B-geo
+Everest NNP O
 for IN O
 a DT O
 record NN O
@@ -983,7 +983,7 @@ also RB O
 found VBN O
 the DT O
 deadly JJ O
-H5N1 NNP B-nat
+H5N1 NNP O
 variety NN O
 of IN O
 avian JJ O
@@ -1000,11 +1000,11 @@ They PRP O
 also RB O
 discussed VBD O
 creating VBG O
-three CD B-tim
+three CD O
 non-permanent JJ O
 seats NNS O
 for IN O
-African JJ B-gpe
+African JJ B-geo
 countries NNS O
 . . O
 
@@ -1044,7 +1044,7 @@ to TO O
 have VB O
 influence NN O
 with IN O
-Shi'ite NNP B-org
+Shi'ite NNP O
 factions NNS O
 and CC O
 militias NNS O
@@ -1102,7 +1102,7 @@ Russia NNP B-geo
 pledged VBD O
 to TO O
 give VB O
-Kyrgyzstan NNP B-geo
+Kyrgyzstan NNP O
 about IN O
 $ $ O
 2 CD O
@@ -1151,7 +1151,7 @@ Friday NNP B-tim
 , , O
 Ambassador NNP O
 Tony NNP B-per
-Garza NNP I-per
+Garza NNP O
 said VBD O
 the DT O
 consulate NN O
@@ -1199,7 +1199,7 @@ much RB O
 higher JJR O
 . . O
 
-Toyota NNP B-geo
+Toyota NNP O
 gained VBD O
 nearly RB O
 41 CD O
@@ -1215,18 +1215,18 @@ ago RB O
 
 But CC O
 eighth-seeded JJ O
-Juan NNP B-org
-Ignacio NNP I-org
-Chela NNP I-org
-of IN I-org
-Argentina NNP I-org
+Juan NNP O
+Ignacio NNP O
+Chela NNP O
+of IN O
+Argentina NNP O
 was VBD O
 upset VBN O
 , , O
 losing VBG O
 to TO O
-Ivo NNP B-per
-Karlovic NNP I-per
+Ivo NNP O
+Karlovic NNP O
 of IN O
 Croatia NNP B-geo
 , , O
@@ -1267,13 +1267,13 @@ the DT O
 Church NN O
 of IN O
 the DT O
-Nativity NNP B-geo
+Nativity NNP O
 , , O
 the DT O
 traditional JJ O
 birthplace NN O
 of IN O
-Jesus NNP B-geo
+Jesus NNP O
 , , O
 playing VBG O
 drums NNS O
@@ -1306,12 +1306,12 @@ of IN O
 the DT O
 passengers NNS O
 , , O
-French JJ B-gpe
-Foreign NNP B-org
+French JJ O
+Foreign NNP O
 Trade NNP O
-Minister NNP B-per
-Anne-Marie NNP I-per
-Idrac NNP I-per
+Minister NNP O
+Anne-Marie NNP O
+Idrac NNP O
 , , O
 called VBD O
 it PRP O
@@ -1336,8 +1336,8 @@ carries VBZ O
 a DT O
 message NN O
 from IN O
-Ayman NNP B-per
-al-Zawahiri NNP I-per
+Ayman NNP O
+al-Zawahiri NNP O
 in IN O
 which WDT O
 he PRP O
@@ -1376,10 +1376,10 @@ the DT O
 neighboring JJ O
 city NN O
 of IN O
-Omdurman NNP B-geo
+Omdurman NNP O
 on IN O
 May NNP B-tim
-10 CD I-tim
+10 CD O
 after IN O
 traveling VBG O
 across IN O
@@ -1454,15 +1454,15 @@ he PRP O
 was VBD O
 paid VBN O
 $ $ O
-20 CD B-tim
+20 CD O
 to TO O
 throw VB O
 the DT O
 grenade NN O
 . . O
 
-Benedicto NNP B-per
-Jimenez NNP I-per
+Benedicto NNP O
+Jimenez NNP O
 strongly RB O
 denied VBD O
 the DT O
@@ -1470,7 +1470,7 @@ reports NNS O
 in IN O
 Peru NNP B-geo
 's POS O
-El~Commercio NNP B-geo
+El~Commercio NNP O
 newspaper NN O
 , , O
 but CC O
@@ -1491,7 +1491,7 @@ Marines NNPS I-org
 , , O
 along IN O
 with IN O
-British JJ B-gpe
+British JJ O
 and CC O
 Afghan JJ B-gpe
 troops NNS O
@@ -1514,11 +1514,11 @@ traditional JJ O
 strongholds NNS O
 . . O
 
-The DT B-org
-International NNP I-org
-Atomic NNP I-org
-Energy NNP I-org
-Agency NNP I-org
+The DT O
+International NNP O
+Atomic NNP O
+Energy NNP O
+Agency NNP O
 is VBZ O
 set VBN O
 to TO O
@@ -1527,7 +1527,7 @@ Western JJ O
 arguments NNS O
 on IN O
 February NNP B-tim
-2 CD I-tim
+2 CD O
 . . O
 
 Hamas NNP B-org
@@ -1547,27 +1547,27 @@ Israel NNP B-geo
 . . O
 
 The DT O
-National NNP B-org
-Football NNP I-org
-League NNP I-org
+National NNP O
+Football NNP O
+League NNP O
 playoffs NNS O
 continue VBP O
 Saturday NNP B-tim
 when WRB O
 the DT O
-Pittsburgh NNP B-geo
-Steelers NNPS I-geo
+Pittsburgh NNP O
+Steelers NNPS O
 host VBP O
 the DT O
-New NNP B-org
-York NNP I-org
-Jets NNPS I-org
-and CC I-org
-Atlanta NNP I-org
+New NNP B-geo
+York NNP I-geo
+Jets NNPS O
+and CC O
+Atlanta NNP O
 takes VBZ O
 on IN O
 Saint NNP B-per
-Louis NNP I-per
+Louis NNP O
 . . O
 
 The DT O
@@ -1622,7 +1622,7 @@ its PRP$ O
 citizens NNS O
 . . O
 
-Maduro NNP B-geo
+Maduro NNP O
 rejected VBD O
 a DT O
 U.S. NNP B-geo
@@ -1661,9 +1661,9 @@ of IN O
 Islam NNP B-per
 . . O
 
-French JJ B-gpe
-President NNP B-per
-Nicolas NNP I-per
+French JJ O
+President NNP O
+Nicolas NNP B-per
 Sarkozy NNP I-per
 says VBZ O
 European NNP B-org
@@ -1723,7 +1723,7 @@ since IN O
 the DT O
 introduction NN O
 of IN O
-Medicare NNP B-geo
+Medicare NNP O
 itself PRP O
 40 CD O
 years NNS O
@@ -1804,7 +1804,7 @@ town NN O
 official NN O
 told VBD O
 the DT O
-French JJ B-gpe
+French JJ O
 news NN O
 agency NN O
 that IN O
@@ -1834,11 +1834,11 @@ of IN O
 Nationalist JJ O
 party NN O
 leader NN O
-Sun NNP B-per
-Yat NNP I-per
-Sen NNP I-per
+Sun NNP O
+Yat NNP O
+Sen NNP O
 in IN O
-Nangjing NNP B-geo
+Nangjing NNP O
 . . O
 
 The DT O
@@ -1862,9 +1862,9 @@ the DT O
 theme NN O
 of IN O
 " `` O
-Civilization NNP B-org
-and CC I-org
-Harmony NNP I-org
+Civilization NNP O
+and CC O
+Harmony NNP O
 . . O
 " `` O
 
@@ -1879,7 +1879,7 @@ Friday NNP B-tim
 in IN O
 the DT O
 western JJ O
-Kapilvastu NNP B-geo
+Kapilvastu NNP O
 district NN O
 as IN O
 security NN O
@@ -1897,12 +1897,12 @@ rebels NNS O
 . . O
 
 The DT O
-Warsaw NNP B-geo
+Warsaw NNP O
 court NN O
 Tuesday NNP B-tim
 found VBD O
-Jerzy NNP B-per
-Urban NNP I-per
+Jerzy NNP O
+Urban NNP O
 , , O
 who WP O
 was VBD O
@@ -1931,9 +1931,9 @@ state NN O
 . . O
 
 Finance NNP O
-Minister NNP B-per
-Rodrigo NNP I-per
-Cabezas NNP I-per
+Minister NNP O
+Rodrigo NNP O
+Cabezas NNP O
 said VBD O
 Wednesday NNP B-tim
 that IN O
@@ -1979,8 +1979,8 @@ it PRP O
 began VBD O
 spreading VBG O
 in IN O
-Southeast NNP B-geo
-Asia NNP I-geo
+Southeast NNP O
+Asia NNP B-geo
 in IN O
 late JJ O
 2003 CD B-tim
@@ -1997,7 +1997,7 @@ since IN O
 the DT O
 end NN O
 of IN O
-World NNP B-org
+World NNP O
 War NNP B-per
 II NNP I-per
 . . O
@@ -2008,7 +2008,7 @@ have VBP O
 improved VBN O
 since IN O
 the DT O
-two CD B-tim
+two CD O
 countries NNS O
 launched VBD O
 a DT O
@@ -2027,7 +2027,7 @@ including VBG O
 the DT O
 conflict NN O
 over IN O
-Kashmir NNP B-geo
+Kashmir NNP O
 . . O
 
 Other JJ O
@@ -2068,7 +2068,7 @@ mine NN O
 accident NN O
 in IN O
 central JJ O
-Henan NNP B-geo
+Henan NNP O
 province NN O
 has VBZ O
 killed VBN O
@@ -2125,7 +2125,7 @@ renounce NN O
 violence NN O
 and CC O
 accept VB O
-past JJ B-tim
+past JJ O
 peace NN O
 accords NNS O
 . . O
@@ -2138,7 +2138,7 @@ other JJ O
 countries NNS O
 say VBP O
 the DT O
-E.U NNP B-geo
+E.U NNP O
 . . O
 has VBZ O
 not RB O

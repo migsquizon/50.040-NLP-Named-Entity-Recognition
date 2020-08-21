@@ -76,8 +76,8 @@ the DT O
 north NN O
 contributed VBD O
 to TO O
-two CD B-tim
-decades NNS I-tim
+two CD O
+decades NNS O
 of IN O
 hostility NN O
 between IN O
@@ -94,7 +94,7 @@ new JJ O
 international JJ O
 sanctions NNS O
 against IN O
-Sudan NNP B-geo
+Sudan NNP B-gpe
 , , O
 Sudanese JJ B-gpe
 rebels NNS O
@@ -335,7 +335,7 @@ ethical JJ O
 . . O
 
 Mr. NNP B-per
-Nowak NNP O
+Nowak NNP I-per
 's POS O
 visit NN O
 to TO O
@@ -562,9 +562,9 @@ on IN O
 Supporters NNS O
 of IN O
 Judge NNP O
-Iftikhar NNP B-geo
-Mohammed NNP I-geo
-Chaudhry NNP O
+Iftikhar NNP O
+Mohammed NNP B-per
+Chaudhry NNP I-per
 chanted VBD O
 slogans NNS O
 Saturday NNP B-tim
@@ -782,7 +782,7 @@ Week NN O
 program NN O
 , , O
 Mr. NNP B-per
-Powell NNP O
+Powell NNP I-per
 says VBZ O
 there EX O
 was VBD O
@@ -835,7 +835,7 @@ U.S. NNP B-geo
 Assistant NNP O
 Secretary NNP O
 of IN O
-State NNP O
+State NNP B-org
 Daniel NNP O
 Fried NNP O
 and CC O
@@ -1151,7 +1151,7 @@ Friday NNP B-tim
 , , O
 Ambassador NNP O
 Tony NNP B-per
-Garza NNP O
+Garza NNP I-per
 said VBD O
 the DT O
 consulate NN O
@@ -1309,8 +1309,8 @@ passengers NNS O
 French JJ B-gpe
 Foreign NNP O
 Trade NNP O
-Minister NNP O
-Anne-Marie NNP O
+Minister NNP B-per
+Anne-Marie NNP I-per
 Idrac NNP O
 , , O
 called VBD O
@@ -1547,8 +1547,8 @@ Israel NNP B-geo
 . . O
 
 The DT O
-National NNP B-geo
-Football NNP I-geo
+National NNP B-org
+Football NNP O
 League NNP O
 playoffs NNS O
 continue VBP O
@@ -1567,7 +1567,7 @@ Atlanta NNP O
 takes VBZ O
 on IN O
 Saint NNP B-per
-Louis NNP O
+Louis NNP I-per
 . . O
 
 The DT O
@@ -1783,7 +1783,7 @@ resources NNS O
 
 Independence NN O
 from IN O
-Spain NNP B-geo
+Spain NNP B-gpe
 was VBD O
 declared VBN O
 in IN O
@@ -1931,8 +1931,8 @@ state NN O
 . . O
 
 Finance NNP O
-Minister NNP O
-Rodrigo NNP O
+Minister NNP B-per
+Rodrigo NNP I-per
 Cabezas NNP O
 said VBD O
 Wednesday NNP B-tim
@@ -2155,7 +2155,7 @@ for IN O
 selling VBG O
 weapons NNS O
 to TO O
-Sudan NNP B-geo
+Sudan NNP B-gpe
 's POS O
 government NN O
 which WDT O
