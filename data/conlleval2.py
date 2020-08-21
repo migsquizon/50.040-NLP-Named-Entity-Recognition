@@ -150,12 +150,13 @@ def count_chunks(true_seqs, pred_seqs):
         correct_counts, true_counts, pred_counts)
 
 def get_result(correct_chunks, true_chunks, pred_chunks,
-    correct_counts, true_counts, pred_counts, verbose=True):
+    correct_counts, true_counts, pred_counts, acc=False, verbose=True):
     """
     if verbose, print overall performance, as well as preformance per chunk type;
     otherwise, simply return overall prec, rec, f1 scores
     """
     # sum counts
+    out = 0
     sum_correct_chunks = sum(correct_chunks.values())
     sum_true_chunks = sum(true_chunks.values())
     sum_pred_chunks = sum(pred_chunks.values())
@@ -180,6 +181,8 @@ def get_result(correct_chunks, true_chunks, pred_chunks,
     print("found: %i phrases; correct: %i.\n" % (sum_pred_chunks, sum_correct_chunks), end='')
         
     print("accuracy: %6.2f%%; (non-O)" % (100*nonO_correct_counts/nonO_true_counts))
+    if acc:
+        out = 100*nonO_correct_counts/nonO_true_counts
     print("accuracy: %6.2f%%; " % (100*sum_correct_counts/sum_true_counts), end='')
     print("precision: %6.2f%%; recall: %6.2f%%; FB1: %6.2f" % (prec, rec, f1))
 
@@ -190,18 +193,20 @@ def get_result(correct_chunks, true_chunks, pred_chunks,
         print("precision: %6.2f%%; recall: %6.2f%%; FB1: %6.2f" %
                     (prec, rec, f1), end='')
         print("  %d" % pred_chunks[t])
+    
+    return res, out
 
-    return res
+
     # you can generate LaTeX output for tables like in
     # http://cnts.uia.ac.be/conll2003/ner/example.tex
     # but I'm not implementing this
     
-def evaluate(true_seqs, pred_seqs, verbose=True):
+def evaluate(true_seqs, pred_seqs, verbose=True, acc=False):
     (correct_chunks, true_chunks, pred_chunks,
         correct_counts, true_counts, pred_counts) = count_chunks(true_seqs, pred_seqs)
-    result = get_result(correct_chunks, true_chunks, pred_chunks,
-        correct_counts, true_counts, pred_counts, verbose=verbose)
-    return result
+    result, out = get_result(correct_chunks, true_chunks, pred_chunks,
+        correct_counts, true_counts, pred_counts, acc, verbose=verbose)
+    return result, out
 
 def evaluate_conll_file(fileIterator):
     true_seqs, pred_seqs = [], []

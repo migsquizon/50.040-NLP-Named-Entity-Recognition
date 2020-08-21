@@ -94,7 +94,7 @@ new JJ O
 international JJ O
 sanctions NNS O
 against IN O
-Sudan NNP B-gpe
+Sudan NNP B-geo
 , , O
 Sudanese JJ B-gpe
 rebels NNS O
@@ -107,7 +107,7 @@ peace NN O
 in IN O
 the DT O
 war-torn JJ O
-Darfur NNP B-tim
+Darfur NNP B-geo
 region NN O
 . . O
 
@@ -335,7 +335,7 @@ ethical JJ O
 . . O
 
 Mr. NNP B-per
-Nowak NNP I-per
+Nowak NNP O
 's POS O
 visit NN O
 to TO O
@@ -547,9 +547,9 @@ August NNP B-tim
 and CC I-tim
 3 CD I-tim
 on IN O
-Good NNP B-org
-Morning NNP I-org
-America NNP I-org
+Good NNP O
+Morning NNP O
+America NNP B-org
 , , O
 and CC O
 later RB O
@@ -562,9 +562,9 @@ on IN O
 Supporters NNS O
 of IN O
 Judge NNP O
-Iftikhar NNP O
-Mohammed NNP B-per
-Chaudhry NNP I-per
+Iftikhar NNP B-geo
+Mohammed NNP I-geo
+Chaudhry NNP O
 chanted VBD O
 slogans NNS O
 Saturday NNP B-tim
@@ -782,7 +782,7 @@ Week NN O
 program NN O
 , , O
 Mr. NNP B-per
-Powell NNP I-per
+Powell NNP O
 says VBZ O
 there EX O
 was VBD O
@@ -833,11 +833,11 @@ soldiers NNS O
 
 U.S. NNP B-geo
 Assistant NNP O
-Secretary NNP B-org
-of IN I-org
-State NNP I-org
-Daniel NNP I-org
-Fried NNP I-org
+Secretary NNP O
+of IN O
+State NNP O
+Daniel NNP O
+Fried NNP O
 and CC O
 Special NNP B-art
 Assistant NNP O
@@ -845,7 +845,7 @@ to TO O
 the DT O
 President NNP B-per
 Thomas NNP I-per
-Graham NNP I-per
+Graham NNP O
 answered VBD O
 questions NNS O
 Wednesday NNP B-tim
@@ -983,7 +983,7 @@ also RB O
 found VBN O
 the DT O
 deadly JJ O
-H5N1 NNP B-nat
+H5N1 NNP O
 variety NN O
 of IN O
 avian JJ O
@@ -1151,7 +1151,7 @@ Friday NNP B-tim
 , , O
 Ambassador NNP O
 Tony NNP B-per
-Garza NNP I-per
+Garza NNP O
 said VBD O
 the DT O
 consulate NN O
@@ -1214,10 +1214,10 @@ ago RB O
 . . O
 
 But CC O
-eighth-seeded JJ B-gpe
-Juan NNP B-per
-Ignacio NNP I-per
-Chela NNP I-per
+eighth-seeded JJ O
+Juan NNP O
+Ignacio NNP O
+Chela NNP O
 of IN O
 Argentina NNP O
 was VBD O
@@ -1309,9 +1309,9 @@ passengers NNS O
 French JJ B-gpe
 Foreign NNP O
 Trade NNP O
-Minister NNP B-per
-Anne-Marie NNP I-per
-Idrac NNP I-per
+Minister NNP O
+Anne-Marie NNP O
+Idrac NNP O
 , , O
 called VBD O
 it PRP O
@@ -1461,8 +1461,8 @@ the DT O
 grenade NN O
 . . O
 
-Benedicto NNP B-per
-Jimenez NNP I-per
+Benedicto NNP O
+Jimenez NNP O
 strongly RB O
 denied VBD O
 the DT O
@@ -1514,11 +1514,11 @@ traditional JJ O
 strongholds NNS O
 . . O
 
-The DT B-org
-International NNP I-org
-Atomic NNP I-org
-Energy NNP I-org
-Agency NNP I-org
+The DT O
+International NNP O
+Atomic NNP O
+Energy NNP O
+Agency NNP O
 is VBZ O
 set VBN O
 to TO O
@@ -1547,9 +1547,9 @@ Israel NNP B-geo
 . . O
 
 The DT O
-National NNP B-org
-Football NNP I-org
-League NNP I-org
+National NNP B-geo
+Football NNP I-geo
+League NNP O
 playoffs NNS O
 continue VBP O
 Saturday NNP B-tim
@@ -1567,7 +1567,7 @@ Atlanta NNP O
 takes VBZ O
 on IN O
 Saint NNP B-per
-Louis NNP I-per
+Louis NNP O
 . . O
 
 The DT O
@@ -1765,7 +1765,7 @@ Union NNP I-geo
 troops NNS O
 now RB O
 in IN O
-Darfur NNP B-tim
+Darfur NNP B-geo
 have VBP O
 acted VBN O
 with IN O
@@ -1834,9 +1834,9 @@ of IN O
 Nationalist JJ O
 party NN O
 leader NN O
-Sun NNP B-per
-Yat NNP I-per
-Sen NNP I-per
+Sun NNP O
+Yat NNP O
+Sen NNP O
 in IN O
 Nangjing NNP O
 . . O
@@ -1931,9 +1931,9 @@ state NN O
 . . O
 
 Finance NNP O
-Minister NNP B-per
-Rodrigo NNP I-per
-Cabezas NNP I-per
+Minister NNP O
+Rodrigo NNP O
+Cabezas NNP O
 said VBD O
 Wednesday NNP B-tim
 that IN O
@@ -1997,7 +1997,7 @@ since IN O
 the DT O
 end NN O
 of IN O
-World NNP B-org
+World NNP O
 War NNP B-per
 II NNP I-per
 . . O
@@ -2027,7 +2027,7 @@ including VBG O
 the DT O
 conflict NN O
 over IN O
-Kashmir NNP B-geo
+Kashmir NNP O
 . . O
 
 Other JJ O
@@ -2125,7 +2125,7 @@ renounce NN O
 violence NN O
 and CC O
 accept VB O
-past JJ B-tim
+past JJ O
 peace NN O
 accords NNS O
 . . O
@@ -2155,7 +2155,7 @@ for IN O
 selling VBG O
 weapons NNS O
 to TO O
-Sudan NNP B-gpe
+Sudan NNP B-geo
 's POS O
 government NN O
 which WDT O
@@ -2168,7 +2168,7 @@ used VBN O
 against IN O
 rebels NNS O
 in IN O
-Darfur NNP B-tim
+Darfur NNP B-geo
 . . O
 
 President NNP B-per

@@ -146,7 +146,7 @@ not O O
 at O O
 risk O O
 . O O
-Swiss B-nat B-gpe
+Swiss I-gpe B-gpe
 drugmaker O O
 Roche O B-per
 said O O
@@ -281,7 +281,7 @@ of O O
 insurgent O O
 attacks O O
 . O O
-Camara B-nat B-per
+Camara I-gpe B-per
 seized O O
 power O O
 in O O
@@ -297,7 +297,7 @@ dictator B-tim O
 Lansana O B-per
 Conte O I-per
 . O O
-Total B-nat O
+Total I-gpe O
 defended O O
 its O O
 business O O
@@ -374,7 +374,7 @@ and O O
 government O O
 intimidation O O
 . O O
-Domestic B-nat O
+Domestic I-gpe O
 and O O
 international O O
 efforts O O
@@ -565,7 +565,7 @@ on O O
 the O O
 site O O
 . O O
-Honiara B-nat B-geo
+Honiara I-gpe B-geo
 is O O
 reported O O
 to O O
@@ -630,7 +630,7 @@ bed O O
 in O O
 Mumbai O B-geo
 . O O
-Ethiopia B-nat O
+Ethiopia I-gpe O
 recently O O
 began O O
 a O O
@@ -897,7 +897,7 @@ intolerance O O
 and O O
 xenophobia O O
 . O O
-Back B-nat O
+Back I-gpe O
 in O O
 May B-tim B-tim
 , O O
@@ -1143,7 +1143,7 @@ be O O
 much O O
 higher O O
 . O O
-Toyota B-nat B-per
+Toyota I-gpe B-per
 gained O O
 nearly O O
 41 O O
@@ -1326,7 +1326,7 @@ kilometers O O
 of O O
 desert O O
 . O O
-Women B-nat O
+Women I-gpe O
 and O O
 children O O
 were O O
@@ -1393,7 +1393,7 @@ throw O O
 the O O
 grenade O O
 . O O
-Benedicto B-nat B-per
+Benedicto I-gpe B-per
 Jimenez O I-per
 strongly O O
 denied O O
@@ -1547,7 +1547,7 @@ for O O
 its O O
 citizens O O
 . O O
-Maduro B-nat B-geo
+Maduro I-gpe B-geo
 rejected O O
 a O O
 U.S. B-geo B-geo
@@ -1565,7 +1565,7 @@ for O O
 U.S.-Venezuelan O O
 relations O O
 . O O
-Delegates B-nat O
+Delegates I-gpe O
 remain O O
 deeply O O
 divided O O
@@ -1699,7 +1699,7 @@ manpower O O
 and O O
 resources O O
 . O O
-Independence B-nat O
+Independence I-gpe O
 from O O
 Spain B-geo B-gpe
 was O O

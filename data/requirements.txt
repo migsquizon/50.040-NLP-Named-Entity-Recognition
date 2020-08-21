@@ -1,0 +1,8 @@
+torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu
+# metric
+seqeval==0.0.5
+# training progressbar
+tqdm==4.31.1
+# tokeniztion
+nltk==3.4.5
