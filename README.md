@@ -1,1 +1,1 @@
-50.040 NLP Sentiment Analysis
+50.040 NLP Named Entity Recognition
